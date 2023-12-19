@@ -25,6 +25,6 @@ After preprocessing in the preprocess.ipynb in the data preprocessing folder, yo
 There are two folders corresponding to the Game and Twitch datasets, each with a main model + 7 Baselines for a total of 8 files. More detailed settings are written in the comments of the code. The current program parameter setting is the best parameter. If you need to perform sensitivity analysis, search for that parameter in the program execution file and directly change the number.
 
 
-The model output results are as shown in the figure below. It will generate Accuracy, HR@K, MRR@K, NDCG@K and other evaluation indicators for the three prediction tasks (Item, Duration, Interval). Among them, _it is the item, _du is duration, _int is interval.
+The model generates output results including evaluation indicators such as Accuracy, HR@K, MRR@K, and NDCG@K for three prediction tasks: Item, Duration, and Interval. In this context, "_it" refers to Item, "_du" refers to Duration, and "_int" refers to Interval.
 
 
