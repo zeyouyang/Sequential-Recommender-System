@@ -6,7 +6,6 @@ The folder contains:
 | :- | :- | :- |
 |2|Data files|Contains Game, Twitch dataset files, and experimental results|
 |3|Experimental code|2 folders respectively for the main program + Baseline experiment .ipynb file of Game, Twitch dataset|
-|4|Environment|Environment file|
 
 
 **Data Files**
