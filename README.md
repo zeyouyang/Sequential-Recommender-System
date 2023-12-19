@@ -26,10 +26,10 @@ There are two folders corresponding to the Game and Twitch datasets, each with a
 
 Import file
 
-![](Aspose.Words.3cf5bdcf-dc8c-4701-81f6-2681ed0bf7fa.004.png)
+
 
 Result display
 
 The model output results are as shown in the figure below. It will generate Accuracy, HR@K, MRR@K, NDCG@K and other evaluation indicators for the three prediction tasks (Item, Duration, Interval). Among them, _it is the item, _du is duration, _int is interval.
-![](Aspose.Words.3cf5bdcf-dc8c-4701-81f6-2681ed0bf7fa.005.png)
+
 
